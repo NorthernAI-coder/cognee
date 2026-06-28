@@ -1,3 +1,7 @@
+> [!NOTE]
+> NorthernAI fork note (2026-06-28): This fork tracks upstream $(System.Collections.Hashtable.upstream) for $(System.Collections.Hashtable.product). Upstream license and attribution remain intact. NorthernAI commercialization layers should use a free local/base tier plus paid hosted/team workflows around NorthernAI-owned integration code.
+>
+> Upstream: https://github.com/topoteretes/cognee
 <div align="center">
   <a href="https://github.com/topoteretes/cognee">
     <img src="https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png" alt="Cognee Logo" height="60">
